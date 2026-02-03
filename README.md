@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Q9IaUn3w)
-# Graded Challenge 7
+# Cat-Breed-Clasification-with-Machine-Learning
 
 _Graded Challenge ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada konsep Artificial Neural Network._
 
@@ -281,3 +281,4 @@ Total Points : 150
 * Commit terakhir di GitHub yang akan dinilai. Pastikan tidak ada commit yang dibuat setelah deadline.
 
 * Jika commit terakhir GitHub telah melewati deadline, meskipun ada commit sebelumnya yang belum melewati deadline, akan mengakibatkan tugas Graded Challenge 7 dinyatakan terlambat dan Graded Challenge 7 mendapat nilai 0.
+
